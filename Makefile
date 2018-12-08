@@ -9,7 +9,7 @@ BIN_PATH = $(BUILD_PATH)/bin
 TEST_BIN_PATH = $(BUILD_PATH)/bin/test
 
 # executable # 
-BIN_NAME = find_ids
+BIN_NAME = solve
 TEST_BIN_NAME = test_$(BIN_NAME)
 
 # extensions #

@@ -1,2 +1,3 @@
 build/
-find_ids
+solve
+test_solve
