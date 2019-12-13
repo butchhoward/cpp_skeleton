@@ -15,10 +15,6 @@ int main()
     test_runner::Tests tests = {
         {"hello world test",      hello_world_test}
         // ,{"XXX", XXX_test}
-        ,{"foo_test", foo_test}
-        ,{"foo_test", foo_test}
-        ,{"farkle_test", farkle_test}
-        ,{"frazzle_test", frazzle_test}
         //MAKEMODULE LIST MARKER. DO NOT DELETE
     };
 
